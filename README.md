@@ -1,4 +1,4 @@
-# -System-Verilog-
+# {System}Verilog
 This is my System Verilog learning projects.
 
 1st Project is 1-bit Full adder. <br>
