@@ -1,7 +1,10 @@
 # {System}Verilog
 This is my System Verilog learning projects.
 
-1st Project is 1-bit Full adder. <br>
-[Notin note](https://chief-panther-812.notion.site/System-Verilog-2161590d676b8026bcd1c49af0e46804?source=copy_link)
+What is System Verilog : <br>
+SystemVerilog is a hardware description and verification language (HDVL) used in the design and verification of digital circuits, particularly in the development of ASICs and FPGAs.
+
+I use Vivado 2018.2 for build this projects.
+ 
 
 
