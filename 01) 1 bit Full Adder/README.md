@@ -1,4 +1,4 @@
-# 🧠 One-Bit Full Adder Design using SystemVerilog
+# One-Bit Full Adder Design using SystemVerilog
 
 This repository contains a SystemVerilog implementation of a one-bit full adder and its testbench, targeting the **Basys 3 FPGA board** (Artix-7, `xc7a35tcpg236-1`).
 
@@ -72,7 +72,7 @@ Follow these steps to recreate and simulate the project in Vivado:
 Full_Adder_PMOD/
 ├── full_adder.sv             # One-bit full adder SystemVerilog code
 ├── tb_full_adder.sv          # Testbench for simulation
-├── basys3_full_adder_pmod.xdc# XDC constraints for Basys 3 board
+├── full_adder.xdc# XDC constraints for Basys 3 board
 ```
 
 ---
